@@ -1,0 +1,217 @@
+.navbar
+{
+    background-color: white;
+    z-index: 1;
+    width: 98.4%;
+}
+
+
+#logo
+{
+	width: auto;
+	height:75px;
+	margin: 10px 0px 5px 0px;
+
+}
+
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+
+}
+
+#options li {
+    float: right;
+
+}
+
+#email
+{
+    font-size: 16px;
+}
+
+li 
+{
+    font-size: 18px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 24px;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #9ce795;
+    color: black;
+    text-decoration: none;
+}
+
+div .box
+{
+	margin-top:-10px;
+	height:20px;
+	width:100%;
+	background-color: #9ce795;
+	display: absolute;
+}
+
+.active
+{
+    background-color: #9ce795;
+    text-decoration: none;
+}
+
+.active a{
+    color: black;
+}
+
+#footer
+{
+    position: relative;
+    height: 100px;
+    width:100%;
+    margin-top: 40px;
+    background-color: #333;
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+#main
+{
+    position: relative;
+    clear: both;
+}
+
+#main p
+{
+    font-weight: bold;
+    font-family: Tahoma, helvetica, Arial;
+    font-size: 28px;
+}
+
+.img-block img
+{
+    width: 450px;
+    height: auto;
+}
+
+.img-block p
+{
+    font-size: 16px;
+}
+
+.question
+{
+    margin-top: 20px;
+}
+
+h1
+{
+    margin-top: 50px
+}
+
+#footer p{
+    padding: 0px 6px;
+}
+
+#footer table li
+{
+    list-style-type: none;
+}
+
+#cent 
+{
+    float:center;
+    padding: 0px 40px;
+}
+
+/*button css layout stuff*/
+.mybutton p
+{
+    display: inline;
+    padding: 20px;
+    margin: 20px;
+    background-color: ;
+    color: black;
+    font-size: 24px;
+    text-decoration: none;
+    clear: both;
+}
+
+.mybutton :hover
+{
+    background-color: #333;
+    color:white;
+    text-decoration: none;
+    position: relative;
+}
+
+.ImageBlock img
+{
+    height:200px;
+    width:auto;
+}
+
+#begin p
+{
+  display: inline;
+  padding: 20px;
+  margin: 40px 20px;
+  background-color: #9ce795;
+  color: black;
+  font-size: 24px;
+  text-decoration: none;   
+}
+
+#begin
+{
+    margin:40px 20px 0px 0px;
+}
+
+#begin :hover
+{
+   background-color: #333;
+    color:white;
+    text-decoration: none;
+    position: relative;
+    cursor: pointer;
+}
+
+#details p
+{
+  display: inline;
+  padding: 20px;
+  background-color: #9ce795;
+  color: black;
+  font-size: 24px;
+  text-decoration: none;   
+}
+
+#details
+{
+    margin: 40px 20px 0px 0px;
+}
+
+#details :hover
+{
+   background-color: #333;
+    color:white;
+    text-decoration: none;
+    position: relative;
+    cursor: pointer;
+}
+
+
+
+
+
