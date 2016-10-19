@@ -210,8 +210,24 @@ h1
     position: relative;
     cursor: pointer;
 }
+/*THis is for the projects page*/
+.longpanel {  
+    
+    width: 35%
 
+}
 
+.longpanel img {
+    border:2px solid #333;   
+}
 
+.longpanel h4{
+    color:#333
+}
+
+.longpanel p
+{
+    padding-bottom: 30px;
+}
 
 
